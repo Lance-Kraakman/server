@@ -1,0 +1,2 @@
+/home/lance-kraakman/esp-workspace-2/server/build/CMakeFiles/rebuild_cache.dir
+/home/lance-kraakman/esp-workspace-2/server/build/CMakeFiles/edit_cache.dir
